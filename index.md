@@ -28,6 +28,11 @@
 
 
 
+### 参考文档
+
+* [Node.js 数据库整合](http://www.camintejs.com/)
+
+
 
 ## 数据库
 
