@@ -17,6 +17,11 @@
 
 
 
+### 参考文档
+
+* [小程序官方文档](https://developers.weixin.qq.com/miniprogram/dev/index.html?t=2018413)
+* [小程序wepy框架官方文档](https://tencent.github.io/wepy/)
+
 
 
 ## 后端
