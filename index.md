@@ -28,9 +28,19 @@
 
 
 
+### 服务器
+
+* Redis
+
+
+* 
+
+
 ### 参考文档
 
 * [Node.js 数据库整合](http://www.camintejs.com/)
+
+* [eggjs 文档](https://eggjs.org/)
 
 
 
