@@ -26,13 +26,20 @@
 
 ## 后端
 
+api接口: 访问  https://apitx.cnstu.top/v1/
+
+
+### mysql
+
+apitx.cnstu.top
+
+root
+
 
 
 ### 服务器
 
 * Redis
-
-
 * 
 
 
