@@ -31,9 +31,9 @@ api接口: 访问  https://apitx.cnstu.top/v1/
 
 ### mysql
 
-apitx.cnstu.top
+server: apitx.cnstu.top  port: 3306
 
-root
+
 
 
 
