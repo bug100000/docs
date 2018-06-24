@@ -46,6 +46,15 @@ api接口: 访问 https://wxtx.ilvdudu.com/v1/
 server: apitx.cnstu.top  port: 3306
 
 
+### 百度mapAPI
+
+
+[百度map DEMO](https://lbsyun.baidu.com/index.php?title=wxjsapi/guide/helloworld)
+
+api url: https://api.map.baidu.com
+
+百度api接口 与我同行:   Thbr5LPMtcCxLFpzRhuMHfBzbOzBBDSW
+
 
 
 
