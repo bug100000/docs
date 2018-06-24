@@ -38,7 +38,7 @@
 
 ## 后端
 
-api接口: 访问  https://apitx.cnstu.top/v1/
+api接口: 访问 https://wxtx.ilvdudu.com/v1/
 
 
 ### mysql
