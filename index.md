@@ -57,6 +57,10 @@ api url: https://api.map.baidu.com
 
 
 
+### iconfont 使用
+```
+<i class="iconfont tx-tongxingicon"></i>
+```
 
 ### 服务器
 
